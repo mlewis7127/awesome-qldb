@@ -1,4 +1,4 @@
-# [<img src="qldb-logo.png" width="15%">](https://aws.amazon.com/qldb/) Amazon QLDB
+# [<img src="QLDB-logo.png" width="15%">](https://aws.amazon.com/qldb/) Amazon QLDB
 
 A curated list of guides, development tools, and resources for [Amazon Quantum Ledger Database](https://aws.amazon.com/qldb/) (QLDB). This list includes both community created content as well as content created by AWS.
 
