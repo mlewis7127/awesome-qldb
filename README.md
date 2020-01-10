@@ -1,4 +1,4 @@
-# [<img src="QLDB-logo.png" width="15%">](https://aws.amazon.com/qldb/) Amazon QLDB
+# [<img src="awesome-qldb-logo.png" width="45%">](https://aws.amazon.com/qldb/)
 
 A curated list of guides, development tools, and resources for [Amazon Quantum Ledger Database](https://aws.amazon.com/qldb/) (QLDB). This list includes both community created content as well as content created by AWS.
 
@@ -47,4 +47,4 @@ _Want to add something? Open a PR!_ 🙂
 
  - [Amazon QLDB and the missing command line client](https://gokhanatil.com/2019/09/amazon-qldb-and-the-missing-command-line-client.html)
 
- 
+
