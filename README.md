@@ -38,9 +38,11 @@ _Want to add something? Open a PR!_ 🙂
 
 ### Stackoverflow [(link)](https://stackoverflow.com/questions/tagged/amazon-qldb)
 
- - [Computing commit digest](https://stackoverflow.com/questions/57937869/how-to-get-compute-commitdigest-when-committing-a-transaction-in-aws-qldb)
- - [Pagination in QLDB](https://stackoverflow.com/questions/59502337/pagination-in-qldb)
- - [QLDB unique field](https://stackoverflow.com/questions/59408019/qldb-unique-field)
+ - [Computing commit digest](https://stackoverflow.com/questions/57937869/how-to-get-compute-commitdigest-when-committing-a-transaction-in-aws-qldb) - explains the purpose and algorithm behind CommitDigest
+ - [Pagination in QLDB](https://stackoverflow.com/questions/59502337/pagination-in-qldb) - position QLDB with reporting and analytics solutions
+ - [QLDB unique field](https://stackoverflow.com/questions/59408019/qldb-unique-field) - enforce uniqueness for an attribute in QLDB
+ - [Find history of deleted data](https://stackoverflow.com/questions/58899088/find-the-history-of-deleted-data-in-qldb) - information on how to filter on history
+ - [QLDB performance limits](https://stackoverflow.com/questions/58254582/amazon-qldb-have-any-scaling-performance-limits) - explanation of concepts such as the document-revision model, transactions, optimistic concurrency control and the journal
 
 
 ### Community contributions
