@@ -47,6 +47,7 @@ _Want to add something? Open a PR!_ 🙂
 
 ### Community contributions
 
+ - [QLDB Guide](https://qldbguide.com/)
  - [Amazon QLDB and the missing command line client](https://gokhanatil.com/2019/09/amazon-qldb-and-the-missing-command-line-client.html)
 
 
