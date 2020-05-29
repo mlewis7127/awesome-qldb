@@ -18,10 +18,15 @@ _Want to add something? Open a PR!_ 🙂
  - [QLDB Python Driver](https://github.com/awslabs/amazon-qldb-driver-python)
  - [QLDB Node Driver](https://github.com/awslabs/amazon-qldb-driver-nodejs)
 
-#### QLDB DMV Sample Application
- - [DMV Sample Application Java](https://github.com/aws-samples/amazon-qldb-dmv-sample-java)
- - [DMV Sample Application Python](https://github.com/aws-samples/amazon-qldb-dmv-sample-python)
- - [DMV Sample Application Nodejs](https://github.com/aws-samples/amazon-qldb-dmv-sample-nodejs)
+#### QLDB Sample Applications
+ - [A DMV based example application which demonstrates best-practices for using QLDB & the QLDB Driver for Java](https://github.com/aws-samples/amazon-qldb-dmv-sample-java)
+ - [A DMV based example application which demonstrates best-practices for using QLDB & the QLDB Driver for Python](https://github.com/aws-samples/amazon-qldb-dmv-sample-python)
+ - [A DMV based example application which demonstrates best-practices for using QLDB & the QLDB Driver for Nodejs](https://github.com/aws-samples/amazon-qldb-dmv-sample-nodejs)
+ - [Building a GraphQL interface to Amazon QLDB with AWS AppSync](https://github.com/aws-samples/aws-appsync-qldb-data-source)
+ - [Amazon QLDB Streams integration with Amazon Elasticsearch](https://github.com/aws-samples/amazon-qldb-streaming-amazon-elasticsearch-sample-python)
+ - [A Basic Sample to demonstrate how to use Amazon QLDB Streams](https://github.com/aws-samples/amazon-qldb-streams-dmv-sample-lambda-python)
+ - [This sample app is aimed at demonstrating how to model a double entry financial ledger application with QLDB](https://github.com/aws-samples/amazon-qldb-double-entry-sample-java)
+
 
 #### Amazon Ion libraries 
  - [Amazon ION Library](http://amzn.github.io/ion-docs/libs.html)
@@ -34,6 +39,15 @@ _Want to add something? Open a PR!_ 🙂
  - [QLDB Senior Principal Engineer Andrew Certain’s Deep Dive (50 min)](https://www.youtube.com/watch?v=ZfYDl4kaVCo)
  - [Building applications with QLDB (Online Tech Talk, Nov 2019)](https://www.youtube.com/watch?v=O5a-Amqdt_w)
  - [Building system of record applications (Online Tech Talk, July 2019)](https://www.youtube.com/watch?v=XGeCNr8eOiA)
+ - [A Customer’s Perspective on Building an Event-Triggered System-of-Record Application with Amazon QLDB](https://pages.awscloud.com/A-Customers-Perspective-on-Building-an-Event-Triggered-System-of-Record-Application-with-Amazon-QLDB_2020_0321-BLC_OD.html)
+
+
+### QLDB Blog Articles
+
+ - [MediSci’s Platform Leverages Amazon QLDB to Bridge the Gap Between Healthcare and Life Science Product Development](https://aws.amazon.com/blogs/startups/mediscis-platform-leverages-amazon-qldb/)
+ - [Building a GraphQL interface to Amazon QLDB with AWS AppSync: Part 1](https://aws.amazon.com/blogs/database/part-1-building-a-graphql-interface-to-amazon-qldb-with-aws-appsync/)
+ - [Building a GraphQL interface to Amazon QLDB with AWS AppSync: Part 2](https://aws.amazon.com/blogs/database/part-2-building-a-graphql-interface-to-amazon-qldb-with-aws-appsync/)
+
 
 
 ### Stackoverflow [(link)](https://stackoverflow.com/questions/tagged/amazon-qldb)
