@@ -57,6 +57,7 @@ _Want to add something? Open a PR!_ 🙂
  - [MediSci’s Platform Leverages Amazon QLDB to Bridge the Gap Between Healthcare and Life Science Product Development](https://aws.amazon.com/blogs/startups/mediscis-platform-leverages-amazon-qldb/)
  - [Building a GraphQL interface to Amazon QLDB with AWS AppSync: Part 1](https://aws.amazon.com/blogs/database/part-1-building-a-graphql-interface-to-amazon-qldb-with-aws-appsync/)
  - [Building a GraphQL interface to Amazon QLDB with AWS AppSync: Part 2](https://aws.amazon.com/blogs/database/part-2-building-a-graphql-interface-to-amazon-qldb-with-aws-appsync/)
+ - [In Data We Trust: The Why And How Of Amazon QLDB, A Purpose-Built, Immutable And Verifiable Database](https://www.forbes.com/sites/amazonwebservices/2019/12/23/in-data-we-trust-the-why-and-how-of-amazon-qldb-a-purpose-built-immutable-and-verifiable-database/)
 
 
 ### Stackoverflow [(link)](https://stackoverflow.com/questions/tagged/amazon-qldb)
