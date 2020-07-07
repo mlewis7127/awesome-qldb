@@ -14,11 +14,14 @@ _Want to add something? Open a PR!_ 🙂
 
 ### QLDB GitHub repositories
 #### QLDB drivers
+
  - [QLDB Java Driver](https://github.com/awslabs/amazon-qldb-driver-java)
  - [QLDB Python Driver](https://github.com/awslabs/amazon-qldb-driver-python)
  - [QLDB Node Driver](https://github.com/awslabs/amazon-qldb-driver-nodejs)
 
+
 #### QLDB Sample Applications
+
  - [A DMV based example application which demonstrates best-practices for using QLDB & the QLDB Driver for Java](https://github.com/aws-samples/amazon-qldb-dmv-sample-java)
  - [A DMV based example application which demonstrates best-practices for using QLDB & the QLDB Driver for Python](https://github.com/aws-samples/amazon-qldb-dmv-sample-python)
  - [A DMV based example application which demonstrates best-practices for using QLDB & the QLDB Driver for Nodejs](https://github.com/aws-samples/amazon-qldb-dmv-sample-nodejs)
@@ -29,6 +32,7 @@ _Want to add something? Open a PR!_ 🙂
 
 
 #### Amazon Ion libraries 
+
  - [Amazon ION Library](http://amzn.github.io/ion-docs/libs.html)
 
 
@@ -42,12 +46,17 @@ _Want to add something? Open a PR!_ 🙂
  - [A Customer’s Perspective on Building an Event-Triggered System-of-Record Application with Amazon QLDB](https://pages.awscloud.com/A-Customers-Perspective-on-Building-an-Event-Triggered-System-of-Record-Application-with-Amazon-QLDB_2020_0321-BLC_OD.html)
 
 
+### Podcasts
+
+ - [Why are customers choosing Amazon QLDB?](https://aws.amazon.com/podcasts/377-why-are-customers-choosing-amazon-qldb/)
+ - [Talking Kotlin - QLDB at Amazon](https://talkingkotlin.com/qldb/)
+
+
 ### QLDB Blog Articles
 
  - [MediSci’s Platform Leverages Amazon QLDB to Bridge the Gap Between Healthcare and Life Science Product Development](https://aws.amazon.com/blogs/startups/mediscis-platform-leverages-amazon-qldb/)
  - [Building a GraphQL interface to Amazon QLDB with AWS AppSync: Part 1](https://aws.amazon.com/blogs/database/part-1-building-a-graphql-interface-to-amazon-qldb-with-aws-appsync/)
  - [Building a GraphQL interface to Amazon QLDB with AWS AppSync: Part 2](https://aws.amazon.com/blogs/database/part-2-building-a-graphql-interface-to-amazon-qldb-with-aws-appsync/)
-
 
 
 ### Stackoverflow [(link)](https://stackoverflow.com/questions/tagged/amazon-qldb)
