@@ -58,6 +58,8 @@ _Want to add something? Open a PR!_ 🙂
  - [Building a GraphQL interface to Amazon QLDB with AWS AppSync: Part 1](https://aws.amazon.com/blogs/database/part-1-building-a-graphql-interface-to-amazon-qldb-with-aws-appsync/)
  - [Building a GraphQL interface to Amazon QLDB with AWS AppSync: Part 2](https://aws.amazon.com/blogs/database/part-2-building-a-graphql-interface-to-amazon-qldb-with-aws-appsync/)
  - [In Data We Trust: The Why And How Of Amazon QLDB, A Purpose-Built, Immutable And Verifiable Database](https://www.forbes.com/sites/amazonwebservices/2019/12/23/in-data-we-trust-the-why-and-how-of-amazon-qldb-a-purpose-built-immutable-and-verifiable-database/)
+ - [Streaming data from QLDB to DynamoDB](https://dev.to/aws-heroes/real-time-streaming-for-amazon-qldb-3c3c)
+ - [Streaming data from QLDB to Elasticsearch](https://dev.to/aws-heroes/streaming-data-from-amazon-qldb-to-elasticsearch-78c)
 
 
 ### Stackoverflow [(link)](https://stackoverflow.com/questions/tagged/amazon-qldb)
