@@ -18,6 +18,8 @@ _Want to add something? Open a PR!_ 🙂
  - [QLDB Java Driver](https://github.com/awslabs/amazon-qldb-driver-java)
  - [QLDB Python Driver](https://github.com/awslabs/amazon-qldb-driver-python)
  - [QLDB Node Driver](https://github.com/awslabs/amazon-qldb-driver-nodejs)
+ - [QLDB .Net Driver](https://github.com/awslabs/amazon-qldb-driver-dotnet)
+ - [QLDB Go Driver](https://github.com/awslabs/amazon-qldb-driver-go)
 
 
 #### QLDB Sample Applications
