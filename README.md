@@ -21,6 +21,9 @@ _Want to add something? Open a PR!_ 🙂
  - [QLDB .Net Driver](https://github.com/awslabs/amazon-qldb-driver-dotnet)
  - [QLDB Go Driver](https://github.com/awslabs/amazon-qldb-driver-go)
 
+#### QLDB Shell
+
+ - [QLDB Shell](https://github.com/awslabs/amazon-qldb-shell)
 
 #### QLDB Sample Applications
 
