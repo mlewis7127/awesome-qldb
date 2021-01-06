@@ -13,13 +13,17 @@ _Want to add something? Open a PR!_ 🙂
 
 
 ### QLDB GitHub repositories
-#### QLDB drivers
+#### Offical AWS QLDB drivers
 
  - [QLDB Java Driver](https://github.com/awslabs/amazon-qldb-driver-java)
  - [QLDB Python Driver](https://github.com/awslabs/amazon-qldb-driver-python)
  - [QLDB Node Driver](https://github.com/awslabs/amazon-qldb-driver-nodejs)
  - [QLDB .Net Driver](https://github.com/awslabs/amazon-qldb-driver-dotnet)
  - [QLDB Go Driver](https://github.com/awslabs/amazon-qldb-driver-go)
+
+#### Community QLDB Drivers
+
+ - [QLDB Rust Driver](https://github.com/Couragium/qldb-rs)
 
 #### QLDB Shell
 
