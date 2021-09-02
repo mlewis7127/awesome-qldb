@@ -66,6 +66,7 @@ _Want to add something? Open a PR!_ 🙂
 
 ### QLDB Blog Articles
 
+- [Real world cryptographic verification with Amazon QLDB](https://aws.amazon.com/blogs/database/real-world-cryptographic-verification-with-amazon-qldb/)
 - [MediSci’s Platform Leverages Amazon QLDB to Bridge the Gap Between Healthcare and Life Science Product Development](https://aws.amazon.com/blogs/startups/mediscis-platform-leverages-amazon-qldb/)
 - [Building a GraphQL interface to Amazon QLDB with AWS AppSync: Part 1](https://aws.amazon.com/blogs/database/part-1-building-a-graphql-interface-to-amazon-qldb-with-aws-appsync/)
 - [Building a GraphQL interface to Amazon QLDB with AWS AppSync: Part 2](https://aws.amazon.com/blogs/database/part-2-building-a-graphql-interface-to-amazon-qldb-with-aws-appsync/)
