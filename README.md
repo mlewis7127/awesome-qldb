@@ -25,6 +25,9 @@ _Want to add something? Open a PR!_ 🙂
 - [How fEMR Delivers Cryptographically Secure and Verifiable Medical Data with Amazon QLDB](https://aws.amazon.com/blogs/architecture/how-femr-delivers-cryptographically-secure-and-verifiable-emr-medical-data-with-amazon-qldb/)
 - [MediSci’s Platform Leverages Amazon QLDB to Bridge the Gap Between Healthcare and Life Science Product Development](https://aws.amazon.com/blogs/startups/mediscis-platform-leverages-amazon-qldb/)
 
+## AWS QLDB Workshop
+
+- [QLDB Immersion Day Workshop](https://qldb-immersionday.workshop.aws/)
 
 ## QLDB GitHub repositories
 
