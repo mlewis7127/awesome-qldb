@@ -12,10 +12,19 @@ _Want to add something? Open a PR!_ 🙂
 
 ## AWS QLDB What's New Announcements
 
-- [QLDB supports real time streaming](https://aws.amazon.com/about-aws/whats-new/2020/05/amazon-qldb-supports-real-time-streaming/)
-- [QLDB launches index improvements](https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-qldb-launches-index-improvements/)
-- [QLDB supports IAM-based access](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-qldb-supports-iam-based-access-policy-for-partiql-queries-and-ledger-tables/)
+- [QLDB now supports JSON output format for exports](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-qldb-json-output-format-exports/)
+- [QLDB launches new version of QLDB Shell](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-qldb-new-version-qldb-shell/)
 - [QLDB supports customer managed KMS keys](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-qldb-supports-customer-managed-kms-keys/)
+- [QLDB supports IAM-based access](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-qldb-supports-iam-based-access-policy-for-partiql-queries-and-ledger-tables/)
+- [QLDB launches index improvements](https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-qldb-launches-index-improvements/)
+- [QLDB supports real time streaming](https://aws.amazon.com/about-aws/whats-new/2020/05/amazon-qldb-supports-real-time-streaming/)
+
+## AWS Customer Blog Articles
+
+- [How Specright uses Amazon QLDB to create a traceable supply chain network](https://aws.amazon.com/blogs/database/how-specright-uses-amazon-qldb-to-create-a-traceable-supply-chain-network/)
+- [How fEMR Delivers Cryptographically Secure and Verifiable Medical Data with Amazon QLDB](https://aws.amazon.com/blogs/architecture/how-femr-delivers-cryptographically-secure-and-verifiable-emr-medical-data-with-amazon-qldb/)
+- [MediSci’s Platform Leverages Amazon QLDB to Bridge the Gap Between Healthcare and Life Science Product Development](https://aws.amazon.com/blogs/startups/mediscis-platform-leverages-amazon-qldb/)
+
 
 ## QLDB GitHub repositories
 
@@ -51,13 +60,13 @@ _Want to add something? Open a PR!_ 🙂
 
 ## AWS Videos
 
-- [QLDB Animated Intro (3 min)](https://www.youtube.com/watch?v=jcZ_rsLJrqk)
 - [AWS re:Invent 2020 - Building out a serverless application with Amazon QLDB](https://www.youtube.com/watch?v=dtBpwCBlz6M)
 - [Presentation at AWS re:Invent 2019 with BMW, DVLA, and Sage (47 min)](https://www.youtube.com/watch?v=TMQuN0eqPck)
 - [QLDB Senior Principal Engineer Andrew Certain’s Deep Dive (50 min)](https://www.youtube.com/watch?v=ZfYDl4kaVCo)
 - [Building applications with QLDB (Online Tech Talk, Nov 2019)](https://www.youtube.com/watch?v=O5a-Amqdt_w)
 - [Building system of record applications (Online Tech Talk, July 2019)](https://www.youtube.com/watch?v=XGeCNr8eOiA)
 - [A Customer’s Perspective on Building an Event-Triggered System-of-Record Application with Amazon QLDB](https://pages.awscloud.com/A-Customers-Perspective-on-Building-an-Event-Triggered-System-of-Record-Application-with-Amazon-QLDB_2020_0321-BLC_OD.html)
+- [QLDB Animated Intro (3 min)](https://www.youtube.com/watch?v=jcZ_rsLJrqk)
 
 ## Podcasts
 
@@ -66,8 +75,8 @@ _Want to add something? Open a PR!_ 🙂
 
 ### QLDB Blog Articles
 
+- [Building a core banking system with Amazon Quantum Ledger Database](https://aws.amazon.com/blogs/industries/building-a-core-banking-system-with-amazon-quantum-ledger-database/)
 - [Real world cryptographic verification with Amazon QLDB](https://aws.amazon.com/blogs/database/real-world-cryptographic-verification-with-amazon-qldb/)
-- [MediSci’s Platform Leverages Amazon QLDB to Bridge the Gap Between Healthcare and Life Science Product Development](https://aws.amazon.com/blogs/startups/mediscis-platform-leverages-amazon-qldb/)
 - [Building a GraphQL interface to Amazon QLDB with AWS AppSync: Part 1](https://aws.amazon.com/blogs/database/part-1-building-a-graphql-interface-to-amazon-qldb-with-aws-appsync/)
 - [Building a GraphQL interface to Amazon QLDB with AWS AppSync: Part 2](https://aws.amazon.com/blogs/database/part-2-building-a-graphql-interface-to-amazon-qldb-with-aws-appsync/)
 - [In Data We Trust: The Why And How Of Amazon QLDB, A Purpose-Built, Immutable And Verifiable Database](https://www.forbes.com/sites/amazonwebservices/2019/12/23/in-data-we-trust-the-why-and-how-of-amazon-qldb-a-purpose-built-immutable-and-verifiable-database/)
