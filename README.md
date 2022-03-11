@@ -42,6 +42,7 @@ _Want to add something? Open a PR!_ 🙂
 ### Community QLDB Drivers
 
 - [QLDB Rust Driver](https://github.com/Couragium/qldb-rs)
+- [Amazon QLDB Key-Value-Store interface driver for NodeJS](https://www.npmjs.com/package/amazon-qldb-kvs-nodejs)
 
 ### QLDB Shell
 
@@ -56,6 +57,7 @@ _Want to add something? Open a PR!_ 🙂
 - [Amazon QLDB Streams integration with Amazon Elasticsearch](https://github.com/aws-samples/amazon-qldb-streaming-amazon-elasticsearch-sample-python)
 - [A Basic Sample to demonstrate how to use Amazon QLDB Streams](https://github.com/aws-samples/amazon-qldb-streams-dmv-sample-lambda-python)
 - [This sample app is aimed at demonstrating how to model a double entry financial ledger application with QLDB](https://github.com/aws-samples/amazon-qldb-double-entry-sample-java)
+- [Implementing Smart Legal Contracts wth Accord Project and Amazon QLDB](https://github.com/accordproject/aws-qldb-lambda)
 
 ### Amazon Ion libraries
 
@@ -85,6 +87,10 @@ _Want to add something? Open a PR!_ 🙂
 - [In Data We Trust: The Why And How Of Amazon QLDB, A Purpose-Built, Immutable And Verifiable Database](https://www.forbes.com/sites/amazonwebservices/2019/12/23/in-data-we-trust-the-why-and-how-of-amazon-qldb-a-purpose-built-immutable-and-verifiable-database/)
 - [Streaming data from QLDB to DynamoDB](https://dev.to/aws-heroes/real-time-streaming-for-amazon-qldb-3c3c)
 - [Streaming data from QLDB to Elasticsearch](https://dev.to/aws-heroes/streaming-data-from-amazon-qldb-to-elasticsearch-78c)
+- [Verify delivery conditions with the Accord Project and Amazon Quantum Ledger Database – Part 1](https://aws.amazon.com/blogs/database/verify-delivery-conditions-with-the-accord-project-and-amazon-quantum-ledger-database-part-1/)
+- [Verify delivery conditions with the Accord Project and Amazon Quantum Ledger Database – Part 2](https://aws.amazon.com/blogs/database/verify-delivery-conditions-with-the-accord-project-and-amazon-quantum-ledger-database-part-2/)
+- [Use Amazon QLDB as an immutable key-value store with a REST API and JSON](https://aws.amazon.com/blogs/database/use-amazon-qldb-as-an-immutable-key-value-store-with-a-rest-api-and-json/)
+- [Monitor Amazon QLDB query access patterns](https://aws.amazon.com/blogs/database/monitor-amazon-qldb-query-access-patterns/)
 
 ## Stackoverflow [(link)](https://stackoverflow.com/questions/tagged/amazon-qldb)
 
