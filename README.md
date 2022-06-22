@@ -12,6 +12,7 @@ _Want to add something? Open a PR!_ 🙂
 
 ## AWS QLDB What's New Announcements
 
+- [Announcing new Console Query Editor for Amazon QLDB](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-console-query-editor-qldb/)
 - [QLDB now supports JSON output format for exports](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-qldb-json-output-format-exports/)
 - [QLDB launches new version of QLDB Shell](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-qldb-new-version-qldb-shell/)
 - [QLDB supports customer managed KMS keys](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-qldb-supports-customer-managed-kms-keys/)
