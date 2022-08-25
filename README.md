@@ -92,6 +92,11 @@ _Want to add something? Open a PR!_ 🙂
 
 - QLDB Shell [link](https://github.com/awslabs/amazon-qldb-shell)
 
+### QLDB Utilities
+
+- QLDB Ledger Loader - a framework for asynchronous loading of data into an Amazon QLDB ledger [link](https://github.com/awslabs/amazon-qldb-ledger-load-java)
+
+
 ### QLDB Sample Applications
 
 - A DMV based example application which demonstrates best-practices for using QLDB & the QLDB Driver for Java [link](https://github.com/aws-samples/amazon-qldb-dmv-sample-java)
